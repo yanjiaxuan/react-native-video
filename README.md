@@ -1,5 +1,7 @@
 ## react-native-video
 
+This is a forked repo from https://github.com/react-native-video/react-native-video, ori repo will not handle pull request any more, so I create this repo to merge pr and publish new package to npm.
+
 A `<Video>` component for react-native, as seen in
 [react-native-login](https://github.com/brentvatne/react-native-login)!
 
