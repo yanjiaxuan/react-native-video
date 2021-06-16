@@ -1,6 +1,6 @@
 {
-    "name": "react-native-new-video",
-    "version": "1.0.0",
+    "name": "react-native-video-new",
+    "version": "1.0.1",
     "description": "A <Video /> element for react-native",
     "main": "Video.js",
     "license": "MIT",
@@ -9,6 +9,7 @@
         "type": "git",
         "url": "git@github.com:yanjiaxuan/react-native-video.git"
     },
+    "types": "index.d.ts",
     "devDependencies": {
         "@react-native-community/eslint-config": "0.0.7",
         "babel-eslint": "10.0.3",
@@ -37,6 +38,7 @@
         "DRMType.js",
         "TextTrackType.js",
         "VideoResizeMode.js",
+        "index.d.ts",
         "react-native-video.podspec"
     ]
 }
