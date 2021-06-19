@@ -1,6 +1,6 @@
 ## react-native-video-new
 
-Play video and audio in react-native with a <Video /> component
+Play video and audio in react-native with a `<Video>` component
 
 This is a forked repo from https://github.com/react-native-video/react-native-video, ori repo will not handle pull request any more, so I create this repo to merge pr and publish new package to npm.
 
